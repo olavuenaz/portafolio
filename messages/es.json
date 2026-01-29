@@ -1,0 +1,65 @@
+{
+  "Navbar": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "research": "Investigación",
+    "about": "Sobre mí",
+    "contact": "Contacto"
+  },
+  "Home": {
+    "title": "Hola, soy Eduardo.",
+    "subtitle": "Ingeniero Civil en Computación e Informática en formación.",
+    "description": "Exploro la intersección entre la Inteligencia Artificial y los Modelos Psicológicos.",
+    "cta_contact": "Contactar",
+    "cta_about": "Más sobre mí",
+    "featured_title": "Proyectos Seleccionados",
+    "view_all": "Ver todos los proyectos",
+    "work_lines": "Líneas de Trabajo",
+    "full_stack": "Desarrollo Full Stack",
+    "full_stack_desc": "Next.js, React, Node, Arquitectura Escalable.",
+    "ai_psychology": "IA & Psicología",
+    "ai_psychology_desc": "Modelos computacionales, NLP, Análisis de Personalidad.",
+    "knowledge_systems": "Sistemas de Conocimiento",
+    "knowledge_systems_desc": "Second Brain, Bases de Datos, Gestión de Información.",
+    "metrics_title": "En Números",
+    "projects_completed": "Proyectos Completados",
+    "years_experience": "Años de Experiencia",
+    "technologies": "Tecnologías",
+    "satisfaction": "Satisfacción Clientes"
+  },
+  "Contact": {
+    "title": "Hablemos.",
+    "subtitle": "¿Tienes una propuesta? Estoy disponible.",
+    "email_label": "Correo Principal",
+    "social_label": "Encuéntrame en"
+  },
+  "About": {
+    "title": "Sobre mí",
+    "bio_p1": "Soy estudiante de Ingeniería Civil en Computación e Informática...",
+    "bio_p2": "Me apasiona construir herramientas que potencien la capacidad humana...",
+    "education_title": "Formación Académica",
+    "education_degree": "Ingeniería Civil en Computación e Informática",
+    "education_status": "En curso",
+    "education_desc": "Actualmente desarrollando tesis sobre la integración de modelos de personalidad en agentes conversacionales.",
+    "focus_title": "Enfoque de Trabajo",
+    "focus_1_title": "Pensamiento Sistémico",
+    "focus_1_desc": "No solo escribo código; diseño sistemas. Me enfoco en la arquitectura y escalabilidad.",
+    "focus_2_title": "Interdisciplinariedad",
+    "focus_2_desc": "Combino ingeniería rigurosa con psicología, narrativa y diseño.",
+    "skills_title": "Stack Tecnológico & Herramientas"
+  },
+  "Projects": {
+    "title": "Proyectos",
+    "subtitle": "Repositorio organizado de desarrollos técnicos y creativos."
+  },
+  "Research": {
+    "title": "Investigación y Escritos",
+    "subtitle": "Espacio dedicado a la producción académica y análisis reflexivos.",
+    "read_more": "Leer documento"
+  },
+  "Footer": {
+  "cta_title": "¿Buscas un desarrollador?",
+  "cta_subtitle": "Disponible para proyectos freelance o empleo full-time",
+  "cta_button": "Conversemos"
+}
+}

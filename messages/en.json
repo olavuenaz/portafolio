@@ -1,0 +1,65 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "projects": "Projects",
+    "research": "Research",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "Home": {
+    "title": "Hi, I'm Eduardo.",
+    "subtitle": "Computer Science Engineer in training.",
+    "description": "Exploring the intersection between AI and Psychological Models.",
+    "cta_contact": "Get in touch",
+    "cta_about": "More about me",
+    "featured_title": "Selected Projects",
+    "view_all": "View all projects",
+    "work_lines": "Lines of Work",
+    "full_stack": "Full Stack Development",
+    "full_stack_desc": "Next.js, React, Node, Scalable Architecture.",
+    "ai_psychology": "AI & Psychology",
+    "ai_psychology_desc": "Computational models, NLP, Personality Analysis.",
+    "knowledge_systems": "Knowledge Systems",
+    "knowledge_systems_desc": "Second Brain, Databases, Information Management.",
+    "metrics_title": "By the Numbers",
+    "projects_completed": "Projects Completed",
+    "years_experience": "Years of Experience",
+    "technologies": "Technologies",
+    "satisfaction": "Client Satisfaction"
+  },
+  "Contact": {
+    "title": "Let's Talk.",
+    "subtitle": "Have a proposal? I'm available.",
+    "email_label": "Main Email",
+    "social_label": "Find me on"
+  },
+    "About": {
+    "title": "About Me",
+    "bio_p1": "I am a Computer Science Engineering student...",
+    "bio_p2": "I am passionate about building tools that enhance human capability...",
+    "education_title": "Education",
+    "education_degree": "Computer Science Engineering",
+    "education_status": "In progress",
+    "education_desc": "Currently developing a thesis on integrating personality models into conversational agents.",
+    "focus_title": "Work Focus",
+    "focus_1_title": "Systems Thinking",
+    "focus_1_desc": "I don't just write code; I design systems. I focus on architecture and scalability.",
+    "focus_2_title": "Interdisciplinary",
+    "focus_2_desc": "I combine rigorous engineering with psychology, narrative, and design.",
+    "skills_title": "Tech Stack & Tools"
+  },
+  "Projects": {
+    "title": "Projects",
+    "subtitle": "Organized repository of technical and creative developments."
+  },
+  "Research": {
+    "title": "Research & Writings",
+    "subtitle": "Space dedicated to academic production and reflective analysis.",
+    "read_more": "Read document"
+  },
+  "Footer": {
+  "cta_title": "Looking for a developer?",
+  "cta_subtitle": "Available for freelance projects or full-time employment",
+  "cta_button": "Let's talk"
+}
+}

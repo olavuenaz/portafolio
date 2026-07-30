@@ -2,7 +2,7 @@
 
 Bienvenido al código fuente de mi portafolio personal. Este espacio interactivo refleja mi trabajo, proyectos e intereses, con un fuerte enfoque en el desarrollo de software y la investigación en Inteligencia Artificial (LLMs, NLP y Transformers).
 (Aun en construcción porque todos los dias hay crecimiento)
-🌐 **[Ver Portafolio en Vivo]([https://tu-enlace-en-vercel.app](https://portafolio-git-master-eduardos-projects-4fc2aa19.vercel.app/es))** 
+🌐 **[Ver Portafolio en Vivo]([https://portafolio-git-master-eduardos-projects-4fc2aa19.vercel.app/es])** 
 
 ## 🛠️ Tecnologías y Arquitectura
 
